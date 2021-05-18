@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sandy134
-- 👀 I’m interested in java development
+- 👀 I’m interested in java development,Algorithms(Specifically Dynamic Programming)
 - 🌱 I’m currently learning BE in CSE
-- 💞️ I’m looking to collaborate on Java open source projects
+- 💞️ I’m looking to collaborate on Java open source
 - 📫 How to reach me ->sandeshhiremath034@gmail.com
 
 <!---
