@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sandy134
-- 👀 I’m interested in Mern full stack development(Spring Boot),Algorithms(Specifically Dynamic Programming)
+- 👀 I’m interested in Mern full stack development
 - 🌱 I’m currently learning BE in CSE
-- 💞️ I’m looking to collaborate on Java open source
+- 💞️ I’m looking to collaborate on MERN stack projects
 - 📫 How to reach me ->sandeshhiremath034@gmail.com
 
 <!---
